@@ -1,0 +1,719 @@
+{
+  "rows": [
+    {
+      "y": 1,
+      "height": 18,
+      "icons": [
+        {
+          "name": "BACK_ARROW",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 1,
+          "cell_y": 1,
+          "cell_w": 18,
+          "cell_h": 13,
+          "matrix_w": 16,
+          "matrix_h": 11,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "BATTLE_BALLS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 20,
+          "cell_y": 1,
+          "cell_w": 18,
+          "cell_h": 18,
+          "matrix_w": 16,
+          "matrix_h": 16,
+          "pure01": false,
+          "max_value": 4
+        },
+        {
+          "name": "CALENDAR",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 39,
+          "cell_y": 1,
+          "cell_w": 13,
+          "cell_h": 15,
+          "matrix_w": 11,
+          "matrix_h": 13,
+          "pure01": false,
+          "max_value": 5
+        },
+        {
+          "name": "CHECKMARK",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 53,
+          "cell_y": 1,
+          "cell_w": 14,
+          "cell_h": 13,
+          "matrix_w": 12,
+          "matrix_h": 11,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "CLOCK",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 68,
+          "cell_y": 1,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "CLOSE",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 81,
+          "cell_y": 1,
+          "cell_w": 11,
+          "cell_h": 11,
+          "matrix_w": 9,
+          "matrix_h": 9,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "CROSS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 93,
+          "cell_y": 1,
+          "cell_w": 13,
+          "cell_h": 13,
+          "matrix_w": 11,
+          "matrix_h": 11,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "DICE",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 107,
+          "cell_y": 1,
+          "cell_w": 15,
+          "cell_h": 16,
+          "matrix_w": 13,
+          "matrix_h": 14,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "DOWN_ARROW",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 123,
+          "cell_y": 1,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "EXTENSIONS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 136,
+          "cell_y": 1,
+          "cell_w": 14,
+          "cell_h": 14,
+          "matrix_w": 12,
+          "matrix_h": 12,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "FEMALE_SYMBOL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 151,
+          "cell_y": 1,
+          "cell_w": 7,
+          "cell_h": 10,
+          "matrix_w": 5,
+          "matrix_h": 8,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "FILTER_SETTINGS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 159,
+          "cell_y": 1,
+          "cell_w": 17,
+          "cell_h": 13,
+          "matrix_w": 15,
+          "matrix_h": 11,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "FISHING_ROD",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 177,
+          "cell_y": 1,
+          "cell_w": 18,
+          "cell_h": 18,
+          "matrix_w": 16,
+          "matrix_h": 16,
+          "pure01": false,
+          "max_value": 9
+        },
+        {
+          "name": "GACHAMON_CARD",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 196,
+          "cell_y": 1,
+          "cell_w": 15,
+          "cell_h": 14,
+          "matrix_w": 13,
+          "matrix_h": 12,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "GBA",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 212,
+          "cell_y": 1,
+          "cell_w": 24,
+          "cell_h": 15,
+          "matrix_w": 22,
+          "matrix_h": 13,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "GEAR",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 237,
+          "cell_y": 1,
+          "cell_w": 10,
+          "cell_h": 10,
+          "matrix_w": 8,
+          "matrix_h": 8,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "GRASS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 248,
+          "cell_y": 1,
+          "cell_w": 18,
+          "cell_h": 18,
+          "matrix_w": 16,
+          "matrix_h": 16,
+          "pure01": false,
+          "max_value": 6
+        },
+        {
+          "name": "HEART",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 267,
+          "cell_y": 1,
+          "cell_w": 13,
+          "cell_h": 12,
+          "matrix_w": 11,
+          "matrix_h": 10,
+          "pure01": false,
+          "max_value": 3
+        }
+      ]
+    },
+    {
+      "y": 20,
+      "height": 18,
+      "icons": [
+        {
+          "name": "HELD_ITEM",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 1,
+          "cell_y": 20,
+          "cell_w": 8,
+          "cell_h": 8,
+          "matrix_w": 6,
+          "matrix_h": 6,
+          "pure01": false,
+          "max_value": 4
+        },
+        {
+          "name": "INSTALL_BOX",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 10,
+          "cell_y": 20,
+          "cell_w": 11,
+          "cell_h": 11,
+          "matrix_w": 9,
+          "matrix_h": 9,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "LANGUAGE_LETTERS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 22,
+          "cell_y": 20,
+          "cell_w": 14,
+          "cell_h": 13,
+          "matrix_w": 12,
+          "matrix_h": 11,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "LEFT_ARROW",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 37,
+          "cell_y": 20,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "LEFT_TRIANGLE",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 50,
+          "cell_y": 20,
+          "cell_w": 7,
+          "cell_h": 11,
+          "matrix_w": 5,
+          "matrix_h": 9,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "MAGNIFYING_GLASS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 58,
+          "cell_y": 20,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "MALE_SYMBOL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 71,
+          "cell_y": 20,
+          "cell_w": 10,
+          "cell_h": 10,
+          "matrix_w": 8,
+          "matrix_h": 8,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "MAP_PINDROP",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 82,
+          "cell_y": 20,
+          "cell_w": 10,
+          "cell_h": 14,
+          "matrix_w": 8,
+          "matrix_h": 12,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "MASTERBALL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 93,
+          "cell_y": 20,
+          "cell_w": 14,
+          "cell_h": 14,
+          "matrix_w": 12,
+          "matrix_h": 12,
+          "pure01": false,
+          "max_value": 4
+        },
+        {
+          "name": "MASTERBALL_SMALL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 108,
+          "cell_y": 20,
+          "cell_w": 11,
+          "cell_h": 11,
+          "matrix_w": 9,
+          "matrix_h": 9,
+          "pure01": false,
+          "max_value": 4
+        },
+        {
+          "name": "NOTEBOOK",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 120,
+          "cell_y": 20,
+          "cell_w": 17,
+          "cell_h": 13,
+          "matrix_w": 15,
+          "matrix_h": 11,
+          "pure01": false,
+          "max_value": 3
+        },
+        {
+          "name": "NOTEPAD",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 138,
+          "cell_y": 20,
+          "cell_w": 13,
+          "cell_h": 13,
+          "matrix_w": 11,
+          "matrix_h": 11,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "PHYSICAL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 152,
+          "cell_y": 20,
+          "cell_w": 9,
+          "cell_h": 9,
+          "matrix_w": 7,
+          "matrix_h": 7,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "POKEBALL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 162,
+          "cell_y": 20,
+          "cell_w": 14,
+          "cell_h": 14,
+          "matrix_w": 12,
+          "matrix_h": 12,
+          "pure01": false,
+          "max_value": 3
+        },
+        {
+          "name": "POKEBALL_SMALL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 177,
+          "cell_y": 20,
+          "cell_w": 11,
+          "cell_h": 11,
+          "matrix_w": 9,
+          "matrix_h": 9,
+          "pure01": false,
+          "max_value": 3
+        },
+        {
+          "name": "REFERENCE_RIGHT",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 189,
+          "cell_y": 20,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "REFERENCE_UP",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 202,
+          "cell_y": 20,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "RIGHT_ARROW",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 215,
+          "cell_y": 20,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "RIGHT_TRIANGLE",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 228,
+          "cell_y": 20,
+          "cell_w": 7,
+          "cell_h": 11,
+          "matrix_w": 5,
+          "matrix_h": 9,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "ROCK",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 236,
+          "cell_y": 20,
+          "cell_w": 18,
+          "cell_h": 18,
+          "matrix_w": 16,
+          "matrix_h": 16,
+          "pure01": false,
+          "max_value": 5
+        },
+        {
+          "name": "SPARKLES",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 255,
+          "cell_y": 20,
+          "cell_w": 14,
+          "cell_h": 14,
+          "matrix_w": 12,
+          "matrix_h": 12,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "SPECIAL",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 270,
+          "cell_y": 20,
+          "cell_w": 9,
+          "cell_h": 9,
+          "matrix_w": 7,
+          "matrix_h": 7,
+          "pure01": true,
+          "max_value": 1
+        }
+      ]
+    },
+    {
+      "y": 39,
+      "height": 18,
+      "icons": [
+        {
+          "name": "STAR",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 1,
+          "cell_y": 39,
+          "cell_w": 14,
+          "cell_h": 13,
+          "matrix_w": 12,
+          "matrix_h": 11,
+          "pure01": false,
+          "max_value": 4
+        },
+        {
+          "name": "SURFING",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 16,
+          "cell_y": 39,
+          "cell_w": 18,
+          "cell_h": 18,
+          "matrix_w": 16,
+          "matrix_h": 16,
+          "pure01": false,
+          "max_value": 11
+        },
+        {
+          "name": "SWORD_ATTACK",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 35,
+          "cell_y": 39,
+          "cell_w": 16,
+          "cell_h": 15,
+          "matrix_w": 14,
+          "matrix_h": 13,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "TRIANGLE_DOWN",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 52,
+          "cell_y": 39,
+          "cell_w": 13,
+          "cell_h": 13,
+          "matrix_w": 11,
+          "matrix_h": 11,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "UP_ARROW",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 66,
+          "cell_y": 39,
+          "cell_w": 12,
+          "cell_h": 12,
+          "matrix_w": 10,
+          "matrix_h": 10,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "VIRUS",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 79,
+          "cell_y": 39,
+          "cell_w": 14,
+          "cell_h": 14,
+          "matrix_w": 12,
+          "matrix_h": 12,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "WARNING",
+          "source": "/root/roguemon/claude/tracker/ironmon_tracker/Constants.lua",
+          "cell_x": 94,
+          "cell_y": 39,
+          "cell_w": 11,
+          "cell_h": 11,
+          "matrix_w": 9,
+          "matrix_h": 9,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "POKEDOLLAR_GLYPH",
+          "source": "/root/roguemon/claude/tracker/extensions/roguemon-expansion/screens/CleansingReminderScreen.lua",
+          "cell_x": 106,
+          "cell_y": 39,
+          "cell_w": 7,
+          "cell_h": 11,
+          "matrix_w": 5,
+          "matrix_h": 9,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "SPARKLE_IMAGE",
+          "source": "/root/roguemon/claude/tracker/extensions/roguemon-expansion/screens/SegmentProgressScreen.lua",
+          "cell_x": 114,
+          "cell_y": 39,
+          "cell_w": 9,
+          "cell_h": 9,
+          "matrix_w": 7,
+          "matrix_h": 7,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "TRAINER_IMAGE",
+          "source": "/root/roguemon/claude/tracker/extensions/roguemon-expansion/screens/SegmentProgressScreen.lua",
+          "cell_x": 124,
+          "cell_y": 39,
+          "cell_w": 9,
+          "cell_h": 12,
+          "matrix_w": 7,
+          "matrix_h": 10,
+          "pure01": false,
+          "max_value": 2
+        },
+        {
+          "name": "BACKSEATING_ICON",
+          "source": "/root/roguemon/claude/tracker/extensions/roguemon-expansion/core/TrackerScreen.lua",
+          "cell_x": 134,
+          "cell_y": 39,
+          "cell_w": 9,
+          "cell_h": 9,
+          "matrix_w": 7,
+          "matrix_h": 7,
+          "pure01": true,
+          "max_value": 1
+        },
+        {
+          "name": "CATEGORY_HYBRID_ICON",
+          "source": "/root/roguemon/claude/tracker/extensions/roguemon-expansion/core/TrackerScreen.lua",
+          "cell_x": 144,
+          "cell_y": 39,
+          "cell_w": 9,
+          "cell_h": 9,
+          "matrix_w": 7,
+          "matrix_h": 7,
+          "pure01": true,
+          "max_value": 1
+        }
+      ]
+    }
+  ],
+  "total_size": [
+    281,
+    58
+  ],
+  "palette": [
+    null,
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      120,
+      200,
+      255,
+      255
+    ],
+    [
+      255,
+      200,
+      120,
+      255
+    ],
+    [
+      180,
+      255,
+      180,
+      255
+    ],
+    [
+      255,
+      180,
+      255,
+      255
+    ],
+    [
+      255,
+      240,
+      120,
+      255
+    ],
+    [
+      200,
+      180,
+      255,
+      255
+    ],
+    [
+      255,
+      150,
+      100,
+      255
+    ],
+    [
+      150,
+      230,
+      220,
+      255
+    ],
+    [
+      240,
+      130,
+      180,
+      255
+    ],
+    [
+      180,
+      230,
+      140,
+      255
+    ]
+  ]
+}

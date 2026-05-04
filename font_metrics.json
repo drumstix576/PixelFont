@@ -1,0 +1,1320 @@
+{
+  "atlas": "font_atlas.png",
+  "cell_size": [
+    14,
+    14
+  ],
+  "baseline_y_in_cell": 10,
+  "first_char": 32,
+  "last_char": 126,
+  "glyphs": {
+    " ": {
+      "empty": true,
+      "width": 3,
+      "height": 0,
+      "ascent": 0,
+      "descent": 0
+    },
+    "!": {
+      "bbox": [
+        3,
+        4,
+        3,
+        9
+      ],
+      "width": 1,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "\"": {
+      "bbox": [
+        3,
+        3,
+        5,
+        5
+      ],
+      "width": 3,
+      "height": 3,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    "#": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "$": {
+      "bbox": [
+        3,
+        3,
+        7,
+        10
+      ],
+      "width": 5,
+      "height": 8,
+      "ascent": 7,
+      "descent": 1,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "%": {
+      "bbox": [
+        3,
+        4,
+        9,
+        9
+      ],
+      "width": 7,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 7
+    },
+    "&": {
+      "bbox": [
+        3,
+        3,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "'": {
+      "bbox": [
+        3,
+        3,
+        3,
+        5
+      ],
+      "width": 1,
+      "height": 3,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "(": {
+      "bbox": [
+        3,
+        3,
+        4,
+        11
+      ],
+      "width": 2,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    ")": {
+      "bbox": [
+        3,
+        3,
+        4,
+        11
+      ],
+      "width": 2,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    "*": {
+      "bbox": [
+        3,
+        3,
+        7,
+        7
+      ],
+      "width": 5,
+      "height": 5,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "+": {
+      "bbox": [
+        3,
+        4,
+        7,
+        8
+      ],
+      "width": 5,
+      "height": 5,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    ",": {
+      "bbox": [
+        3,
+        9,
+        4,
+        10
+      ],
+      "width": 2,
+      "height": 2,
+      "ascent": 1,
+      "descent": 1,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "-": {
+      "bbox": [
+        3,
+        7,
+        4,
+        7
+      ],
+      "width": 2,
+      "height": 1,
+      "ascent": 3,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    ".": {
+      "bbox": [
+        3,
+        9,
+        3,
+        9
+      ],
+      "width": 1,
+      "height": 1,
+      "ascent": 1,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "/": {
+      "bbox": [
+        2,
+        3,
+        6,
+        11
+      ],
+      "width": 5,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 0,
+      "advance": 4
+    },
+    "0": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "1": {
+      "bbox": [
+        4,
+        4,
+        6,
+        9
+      ],
+      "width": 3,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 2,
+      "advance": 5
+    },
+    "2": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "3": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "4": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "5": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "6": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "7": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "8": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "9": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    ":": {
+      "bbox": [
+        3,
+        6,
+        3,
+        9
+      ],
+      "width": 1,
+      "height": 4,
+      "ascent": 4,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    ";": {
+      "bbox": [
+        2,
+        6,
+        3,
+        10
+      ],
+      "width": 2,
+      "height": 5,
+      "ascent": 4,
+      "descent": 1,
+      "left_bearing": 0,
+      "advance": 2
+    },
+    "<": {
+      "bbox": [
+        4,
+        4,
+        7,
+        8
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 2,
+      "advance": 5
+    },
+    "=": {
+      "bbox": [
+        3,
+        6,
+        7,
+        8
+      ],
+      "width": 5,
+      "height": 3,
+      "ascent": 4,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    ">": {
+      "bbox": [
+        4,
+        4,
+        7,
+        8
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 2,
+      "advance": 5
+    },
+    "?": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "@": {
+      "bbox": [
+        3,
+        4,
+        8,
+        9
+      ],
+      "width": 6,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "A": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "B": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "C": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "D": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "E": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "F": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "G": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "H": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "I": {
+      "bbox": [
+        3,
+        4,
+        3,
+        9
+      ],
+      "width": 1,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "J": {
+      "bbox": [
+        3,
+        4,
+        4,
+        9
+      ],
+      "width": 2,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    "K": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "L": {
+      "bbox": [
+        3,
+        4,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 4
+    },
+    "M": {
+      "bbox": [
+        3,
+        4,
+        8,
+        9
+      ],
+      "width": 6,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 7
+    },
+    "N": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "O": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "P": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "Q": {
+      "bbox": [
+        3,
+        4,
+        7,
+        10
+      ],
+      "width": 5,
+      "height": 7,
+      "ascent": 6,
+      "descent": 1,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "R": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 6
+    },
+    "S": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "T": {
+      "bbox": [
+        3,
+        4,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 4
+    },
+    "U": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "V": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "W": {
+      "bbox": [
+        3,
+        4,
+        9,
+        9
+      ],
+      "width": 7,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 8
+    },
+    "X": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "Y": {
+      "bbox": [
+        3,
+        4,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "Z": {
+      "bbox": [
+        3,
+        4,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "[": {
+      "bbox": [
+        3,
+        3,
+        4,
+        11
+      ],
+      "width": 2,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    "\\": {
+      "bbox": [
+        3,
+        3,
+        7,
+        11
+      ],
+      "width": 5,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1,
+      "advance": 4
+    },
+    "]": {
+      "bbox": [
+        3,
+        3,
+        4,
+        11
+      ],
+      "width": 2,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    "^": {
+      "bbox": [
+        3,
+        3,
+        7,
+        6
+      ],
+      "width": 5,
+      "height": 4,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "_": {
+      "bbox": [
+        3,
+        10,
+        7,
+        10
+      ],
+      "width": 5,
+      "height": 1,
+      "ascent": 0,
+      "descent": 1,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "`": {
+      "bbox": [
+        4,
+        3,
+        5,
+        4
+      ],
+      "width": 2,
+      "height": 2,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 2,
+      "advance": 5
+    },
+    "a": {
+      "bbox": [
+        3,
+        5,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "b": {
+      "bbox": [
+        3,
+        3,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "c": {
+      "bbox": [
+        3,
+        5,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 4
+    },
+    "d": {
+      "bbox": [
+        3,
+        3,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "e": {
+      "bbox": [
+        3,
+        5,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "f": {
+      "bbox": [
+        3,
+        3,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 3
+    },
+    "g": {
+      "bbox": [
+        3,
+        4,
+        6,
+        11
+      ],
+      "width": 4,
+      "height": 8,
+      "ascent": 6,
+      "descent": 2,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "h": {
+      "bbox": [
+        3,
+        3,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "i": {
+      "bbox": [
+        3,
+        3,
+        3,
+        9
+      ],
+      "width": 1,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "j": {
+      "bbox": [
+        2,
+        3,
+        3,
+        11
+      ],
+      "width": 2,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 0,
+      "advance": 2
+    },
+    "k": {
+      "bbox": [
+        3,
+        3,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "l": {
+      "bbox": [
+        3,
+        3,
+        3,
+        9
+      ],
+      "width": 1,
+      "height": 7,
+      "ascent": 7,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 2
+    },
+    "m": {
+      "bbox": [
+        3,
+        5,
+        9,
+        9
+      ],
+      "width": 7,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 8
+    },
+    "n": {
+      "bbox": [
+        3,
+        5,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "o": {
+      "bbox": [
+        3,
+        5,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1,
+      "advance": 5
+    },
+    "p": {
+      "bbox": [
+        3,
+        5,
+        6,
+        11
+      ],
+      "width": 4,
+      "height": 7,
+      "ascent": 5,
+      "descent": 2,
+      "left_bearing": 1
+    },
+    "q": {
+      "bbox": [
+        3,
+        5,
+        6,
+        11
+      ],
+      "width": 4,
+      "height": 7,
+      "ascent": 5,
+      "descent": 2,
+      "left_bearing": 1
+    },
+    "r": {
+      "bbox": [
+        3,
+        5,
+        4,
+        9
+      ],
+      "width": 2,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "s": {
+      "bbox": [
+        3,
+        5,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "t": {
+      "bbox": [
+        3,
+        4,
+        4,
+        9
+      ],
+      "width": 2,
+      "height": 6,
+      "ascent": 6,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "u": {
+      "bbox": [
+        3,
+        5,
+        6,
+        9
+      ],
+      "width": 4,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "v": {
+      "bbox": [
+        3,
+        5,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "w": {
+      "bbox": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "width": 5,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "x": {
+      "bbox": [
+        3,
+        5,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "y": {
+      "bbox": [
+        3,
+        5,
+        5,
+        11
+      ],
+      "width": 3,
+      "height": 7,
+      "ascent": 5,
+      "descent": 2,
+      "left_bearing": 1
+    },
+    "z": {
+      "bbox": [
+        3,
+        5,
+        5,
+        9
+      ],
+      "width": 3,
+      "height": 5,
+      "ascent": 5,
+      "descent": 0,
+      "left_bearing": 1
+    },
+    "{": {
+      "bbox": [
+        3,
+        3,
+        5,
+        11
+      ],
+      "width": 3,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1
+    },
+    "|": {
+      "bbox": [
+        5,
+        3,
+        5,
+        11
+      ],
+      "width": 1,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 3
+    },
+    "}": {
+      "bbox": [
+        3,
+        3,
+        5,
+        11
+      ],
+      "width": 3,
+      "height": 9,
+      "ascent": 7,
+      "descent": 2,
+      "left_bearing": 1
+    },
+    "~": {
+      "bbox": [
+        3,
+        6,
+        7,
+        7
+      ],
+      "width": 5,
+      "height": 2,
+      "ascent": 4,
+      "descent": 0,
+      "left_bearing": 1
+    }
+  }
+}
